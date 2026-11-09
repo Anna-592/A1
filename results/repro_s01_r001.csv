@@ -1,0 +1,5 @@
+"scenario_id","rep_id","seed","n","theta","censor_prop","rho","true_frailty","n_rows","n_events","mean_censor_time","realized_followup_loss","assumed_frailty","penalty","TPR","FDR","n_selected","selected_vars","BIC","tune","LL_difference","all_points_pass"
+1,1,20361005,200,0.5,0.15,0,"gamma",1828,1628,2.99711138640571,0.14368246102694,"gamma","MCP",1,0.25,4,"rx,number_z,size_z,z26",17255.0113826667,0.0497870683678639,103.272775408488,TRUE
+1,1,20361005,200,0.5,0.15,0,"gamma",1828,1628,2.99711138640571,0.14368246102694,"lognormal","MCP",1,0.25,4,"rx,number_z,size_z,z26",17256.0911483017,0.0639278612067076,61.3280605892505,TRUE
+1,1,20361005,200,0.5,0.15,0,"gamma",1828,1628,2.99711138640571,0.14368246102694,"gamma","SCAD",1,0.25,4,"rx,number_z,size_z,z26",17255.0112688041,0.038774207831722,102.719670058532,TRUE
+1,1,20361005,200,0.5,0.15,0,"gamma",1828,1628,2.99711138640571,0.14368246102694,"lognormal","SCAD",1,0.25,4,"rx,number_z,size_z,z26",17256.0947474631,0.0497870683678639,61.3563967308401,TRUE
